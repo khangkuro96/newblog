@@ -13,7 +13,7 @@ gem 'bcrypt', '~> 3.1', '>= 3.1.12'
 gem 'will_paginate', '~> 3.1.0'
 gem 'will_paginate-bootstrap4', '~> 0.2.2'
 # Use Puma as the app server
-gem 'puma', '~> 4.1'
+gem 'puma', '~> 4.3'
 # Use SCSS for stylesheets
 gem 'sass-rails', '>= 6'
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
